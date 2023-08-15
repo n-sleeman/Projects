@@ -1,0 +1,19 @@
+1. int num1;
+2. int num2;
+3. int num3;
+4. int num4;
+5. num4 = 2;
+6. num3 = 2 ^ 3 ^ 2;
+7. num1 = 555 - -444;
+8. num2 = 222 * 2;
+9. print(num3);
+10. printString("Noah da GOAT");
+11. printlines(num4+2);
+12. 
+13. if(num1 != num1){
+14. 	print(num1);
+15. }else{
+16. 	printString("Sup mf, juice wrld better than ye!");
+17. }
+18. 
+19. 
