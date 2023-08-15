@@ -1,2 +1,2 @@
-List of my personal projects
+List of my personal projects:
 Scrabble (Java)
