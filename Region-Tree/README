@@ -1,1 +1,2 @@
-
+One memory leak in computeHull that has something to do with how points are merged/added to vector. 
+Region tree able to do hit queries and produce svg files for visual representation. 
